@@ -1,0 +1,16 @@
+{
+    "name": "gvidas/task3",
+    "authors": [
+        {
+            "name": "Gvidas",
+            "email": "gvisis@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Miskas\\Didelis\\": "./",
+            "\\": "/"
+        }
+    }
+}
